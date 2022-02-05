@@ -1,0 +1,18 @@
+---
+title: "Fulfillment"
+output:
+  html_document:
+    df_print: paged
+---
+
+A quote by Dag Hammarskjold, a Swedish economist and diplomat who served as the second Secretary-General of the United Nations from April 1953 until his death in a plane crash in September 1961 at the age of 56.
+
+*It is more noble to give yourself completely to one individual than to labor diligently for the salvation of the masses.*
+
+Perhaps he wrote another that might have said,
+
+*It is far more satisfying and liberating to labor for the fulfillment of a soul -- oneself, than to labor diligently to satisfy expectations of masses.*
+
+The world will meet its needs one way another.
+
+However, we only have a finite time to fulfill needs of oneself and possibly needs of those around us.
